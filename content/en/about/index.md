@@ -1,35 +1,60 @@
 ---
-title: About Goldydocs
-linkTitle: About
+title: JC's Portfolio
+linkTitle: About Me
 menu: {main: {weight: 10}}
 ---
 
-{{% blocks/cover title="Senior Capstone Demo" image_anchor="bottom" height="auto" %}}
+{{% blocks/cover title="" image_anchor="bottom" height="auto" %}}
 
-JC's Demo site using the Docsy Hugo theme.
+<img src="/background.jpg" alt="Image" align="right" width="350">
+
+## Jean Claude Ntambara
+I'm a Senior at Hendrix College majoring in Computer Science. 
+I'm a technology enthusiast with the main interest in Database management, software development, and exploring how to solve complex problems while contributing to the betterment of people's lives.
+
+### **Address:**
+
+1600 Washington Avenue, Conway Arkansas 72032
+
+### **Phone:**
+
+501-932-2132
+
+### **URL:**
+
+[LinkedIn](https://www.linkedin.com/in/jean-claude-ntambara-076651142/)
+
 {.mt-5}
 
 {{% /blocks/cover %}}
 
 {{% blocks/lead %}}
 
-Goldydocs is a sample site using the [Docsy](https://github.com/google/docsy)
-Hugo theme that shows what it can do and provides you with a template site
-structure. It’s designed for you to clone and edit as much as you like. See the
-different sections of the documentation and site for more ideas.
+For more information and experiences, visit my fully completed [Portfolio](https://jcntambara15.github.io/jeckyll-al-folio-demo/).
 
 {{% /blocks/lead %}}
 
 {{% blocks/section %}}
 
-# This is another section
-{.text-center}
+<!-- <img src="/background.jpg" alt="Image" align="right" width="300"> -->
 
-{{% /blocks/section %}}
+### **Interests**
 
-{{% blocks/section %}}
+* Software Development
+* Database
+* Web Development
+* Front End Engineering
 
-# This is another section
+### **Hobbies**
+
+* Volleyball
+* Basketball
+* Music Instruments (Piano and Guitar)
+* Biking
+* Cooking
+
+<!-- ![Profile](/background.jpg) -->
+
 {.text-center}
 
 {{% /blocks/section %}}

@@ -1,15 +1,15 @@
 ---
-title: Goldydocs
+title: HugoDemoSite
 ---
 
-{{< blocks/cover title="Welcome to Goldydocs: A Docsy Example Project!" image_anchor="top" height="full" >}}
-<a class="btn btn-lg btn-primary me-3 mb-4" href="/docs/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-<a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
+{{< blocks/cover title="Welcome to my Portfolio" image_anchor="top" height="full" >}}
+<a class="btn btn-lg btn-primary me-3 mb-4" href="/about/">
+  Check My About Me Page for More Info <i class="fas fa-arrow-alt-circle-right ms-2"></i>
+</a> 
+<!-- <a class="btn btn-lg btn-secondary me-3 mb-4" href="https://github.com/google/docsy-example">
   Download <i class="fab fa-github ms-2 "></i>
 </a>
-<p class="lead mt-5">Porridge temperature assessment &mdash; in the cloud!</p>
+<p class="lead mt-5">Let's learn this site generator together &mdash; it's gonna be cool!</p>
 {{< blocks/link-down color="info" >}}
 {{< /blocks/cover >}}
 
